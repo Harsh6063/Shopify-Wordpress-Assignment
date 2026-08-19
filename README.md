@@ -11,8 +11,11 @@ The project was developed using native WordPress and Shopify functionality witho
 All screenshots, videos, and additional project evidence are available here:
 
 🔗 **Google Drive:** https://drive.google.com/drive/folders/1fUE3R217H17fuGuOTN182t-sQ-k6tFC3?usp=sharing
+
 🔗 *CHATGPT Link :** https://chatgpt.com/share/6a85b427-d43c-83ee-b894-4caa5d068ab5
+
 🔗 **Claude Link:** https://claude.ai/share/efb3a796-55c0-474a-a1ad-c636303b662c
+
 
 The Drive contains:
 
